@@ -8,15 +8,15 @@ LabVIEW 2013
 
 ### Built Availability ###
 
-No builds available.
+Builds of this IP are available on the [NI VeriStand Add-ons Community](https://decibel.ni.com/content/docs/DOC-32295).
 
 ### Quality, Limitations ###
 
-In used since 2013.
+In use since 2013.
 
 ### Dependencies ###
 
-The workspace objects require that you select a DAQ or RIO hardware type in your system.
+Some workspace objects require that you select a DAQ or RIO hardware type in your system.
 
 ### License ###
 
