@@ -1,4 +1,4 @@
-## IP Name ##
+## Automotive ECU Controls ##
 
 **Automotive ECU Controls** provide the following workspace objects: Engine Speed, Fault Control, Keyswitch, Park Brake, Park Brake (toggle), Pedal Control, Shifter, Shifter with Null, and Steering Control.
 
