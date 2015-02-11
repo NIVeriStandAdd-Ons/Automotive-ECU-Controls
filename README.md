@@ -8,7 +8,7 @@ LabVIEW 2013
 
 ### Built Availability ###
 
-Builds of this IP are available on the [NI VeriStand Add-ons Community](https://decibel.ni.com/content/docs/DOC-32295).
+Builds of this IP are not available.
 
 ### Quality, Limitations ###
 
