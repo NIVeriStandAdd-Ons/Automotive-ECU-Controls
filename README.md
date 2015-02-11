@@ -19,7 +19,9 @@ In use since 2013.
 Some workspace objects require that you select a DAQ or RIO hardware type in your system.
 
 ### Instructions for Use ###
+
 **Engine Speed**
+
 1. Set the Control Label
 2. Set the Max RPM displayed with the Dial
 3. Select whether to use one channel or two.
@@ -28,6 +30,7 @@ Some workspace objects require that you select a DAQ or RIO hardware type in you
 6. Set your color preferences.
 
 **Fault Control**
+
 1. Select the Display name to modify.
 2. Set the Channel to map the Display name to.
 3. Set the Fault Signals for that Display name.
@@ -35,6 +38,7 @@ Some workspace objects require that you select a DAQ or RIO hardware type in you
 5. (Outside the configuration dialog box) Use the second two columns in the workspace for additional documentation for each Display name.
 
 **Keyswitch**
+
 1. Set the Hardware type to RIO or DAQ.
 2. Select the channel.
 3. Set the Control Label.
@@ -43,18 +47,21 @@ Some workspace objects require that you select a DAQ or RIO hardware type in you
 6. Set your color preferences.
 
 **Park Brake (toggle)**
+
 1. Set the Ground on Engage channel.
 2. Set the Ground on Disengage channel.
 3. Set the Control Label.
 4. Set your color preferences.
 
 **Park Brake**
+
 1. Set the Ground on Engage channel.
 2. Set the Ground on Disengage channel.
 3. Set the Control Label.
 4. Set your color preferences.
 
 **Pedal Control**
+
 1. Select the Hardware type to either RIO or DAQ.
 2. Set the channel.
 3. Set the Control Label.
@@ -62,6 +69,7 @@ Some workspace objects require that you select a DAQ or RIO hardware type in you
 5. Set your color preferences.
 
 **Shifter**
+
 1. Set the Hardware type to either RIO or DAQ.
 2. Set the channel.
 3. Set the Control label.
@@ -69,12 +77,14 @@ Some workspace objects require that you select a DAQ or RIO hardware type in you
 5. Set your color preferences.
 
 **Shifter with Null**
+
 1. Set the channel.
 2. Set the Control label.
 3. Set the output values for for F, N, R, and NULL.
 4. Set your color preferences.
 
 **Steering Control**
+
 1. Set the Hardware type to either RIO or DAQ.
 2. Set the channel.
 3. Set the Control Label.
